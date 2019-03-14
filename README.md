@@ -1,5 +1,3 @@
-# django
-this repository conists of the basic django code in association with the mdeium aarticle written in my account </br>
-here is the link to the article .
+# Django 
 
-the django tutorial  conists of the following part codes .
+This is the django for the backend of the website of #MinedDenim
