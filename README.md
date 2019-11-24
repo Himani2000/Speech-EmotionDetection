@@ -1,3 +1,4 @@
-# Django 
+#SPEECH-EMOTION DECTECTION 
 
-This is the django for the backend of the website of #MinedDenim
+In this project the speech of a person is classified into these 7 types of emotion 
+I have combined several datasets for the same 
